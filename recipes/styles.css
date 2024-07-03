@@ -1,0 +1,10 @@
+.Header {
+    color:crimson;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Image {
+    width: 300px;
+    height: default;
+}
